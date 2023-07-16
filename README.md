@@ -1,0 +1,2 @@
+# simpleHorizontalTabs
+vanilla js exercise
